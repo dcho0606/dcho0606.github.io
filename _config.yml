@@ -1,11 +1,11 @@
 # Site settings
-author: Deanna Cho
-title: 
+author: Deanna
+title: New beginnings
 header-img: img/home-bg.png
 email: dcho0606@gmail.com
-copyright_name: Deanna Cho
+copyright_name: Deanna
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Small steps
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dcho0606
